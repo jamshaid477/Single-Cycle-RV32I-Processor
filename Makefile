@@ -8,7 +8,7 @@ VVP = vvp
 GTKWAVE = gtkwave
 
 # Files
-SRC = complete_rv32i.txt
+SRC = complete_rv32i.v
 TB = riscv_core_tb.v
 HEX = program.hex
 C_SRC = program.c
