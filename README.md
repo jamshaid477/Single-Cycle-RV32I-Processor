@@ -10,6 +10,8 @@ Design and Implementation of a Single-Cycle RISC-V Processor
 6. GitHub Repository Setup
 7. Conclusion
 
+
+
 1. Introduction
 This project presents the design, implementation, and verification of a Single-Cycle RISC-V RV32I Processor. The processor is developed using Verilog HDL and verified using Icarus Verilog (iverilog) and GTKWave. It is also tested for compatibility with GCC, allowing execution of compiled C programs.
 2. Processor Architecture
